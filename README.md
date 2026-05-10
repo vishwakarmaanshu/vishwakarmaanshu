@@ -9,6 +9,11 @@ I build backend systems and APIs, and I'm always learning something new.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+![Servlet](https://img.shields.io/badge/Java%20Servlet-ED8B00?style=flat&logo=java&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat&logo=java&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white)
 
 ## 📊 GitHub Stats
 
